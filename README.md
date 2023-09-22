@@ -48,7 +48,7 @@ Untuk menuliskan data diri Anda, silakan gunakan format markdown. Jika Anda belu
 ### I
  * Ibrohim Mahmud Hanafi [github](https://github.com/blackinitial) (Asal Klaten)
  * Ian Mustafa [GitHub](https://github.com/ianmustafa) (Bojonegoro, Jawa Timur)
-
+ * Ikhlas Bahrudin [https://github.com/Ikhlasbahrudin] (cianjur jawa barat)
 ### J
 
 ### K
